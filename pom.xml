@@ -74,8 +74,8 @@
 								<pluginExecution>
 									<pluginExecutionFilter>
 										<groupId>org.apache.maven.plugins</groupId>
-										<artifactId>maven-jar-plugin</artifactId>
-										<versionRange>[1.0.0,]</versionRange>
+										<artifactId>maven-surefire-plugin</artifactId>
+										<version>2.19.1</version>
 										<goals>
 											<goal>jar</goal>
 										</goals>
